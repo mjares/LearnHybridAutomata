@@ -7,6 +7,8 @@ Script_LearnNew_HAModel.py can be used to produce new hybrid automata models fro
 
 Traces must be provided as .txt files (examples can be found in the 'data' folder).
 
+Hybrid models are produced as .txt files starting with 'HA_...
+
 Python modules required: 
 - fastdtw
 - scipy 1.7.2
